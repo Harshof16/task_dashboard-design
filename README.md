@@ -12,11 +12,11 @@ A modern, responsive financial dashboard built with **Next.js**, **React**, and 
 
 ## Project Structure
 
-/components // Reusable UI components
-/pages // Next.js pages
-/styles // Global styles (e.g., globals.css)
-/utils // Utility functions
-/mockData.ts // Mock data for dashboard
+/components → Reusable UI components  
+/pages → Next.js pages  
+/styles → Global styles (e.g., globals.css)  
+/utils → Utility functions  
+/mockData.ts → Mock data for dashboard  
 
 
 ## Getting Started
